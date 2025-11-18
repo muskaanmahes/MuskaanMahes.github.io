@@ -1,0 +1,8 @@
+title: Muskaan Mahes
+description: Personal site and data science portfolio.
+theme: minima
+
+# Navigation at the top
+header_pages:
+  - about.md
+  - projects.md
