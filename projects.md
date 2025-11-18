@@ -10,4 +10,4 @@ permalink: /projects/
 
 Here is my attrition project for class.
 
-👉 [Open the Attrition Report](attrition/attrition-report.html)
+👉 [Open the Attrition Report](/attrition/attrition/Case_Study.html)
