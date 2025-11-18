@@ -6,7 +6,8 @@ permalink: /about/
 
 # Muskaan Mahes
 
-![My Photo](/assets/img/muskaan.jpg)
+<img src="/assets/img/muskaan.jpg" alt="Muskaan Mahes" width="250">
+
 
 Hi! My name is Muskaan Mahes and I'm a graduate student in Data Science at SMU.
 
