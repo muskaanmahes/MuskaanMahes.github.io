@@ -20,3 +20,10 @@ A regression modeling project that predicts home sale prices in Ames, Iowa using
 The analysis compares multiple models (simple, multiple, and logged multiple regression) and evaluates performance using Adjusted R², PRESS, AIC, and Kaggle score.
 
 👉 [Predictive Modeling of Ames Housing Prices](./ames_housing.html)
+
+### Abalone Age Prediction
+Predicting abalone age using linear regression and interactive visualization.
+
+- [Project Page](http://safimuhammad.me/dds-abalone-project/)
+- [GitHub Repo](https://muskaanmahes.github.io/)
+- [Shiny App](http://muskaanmahes.shinyapps.io/abalone_shiny_clean)
