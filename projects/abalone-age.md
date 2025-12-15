@@ -1,6 +1,7 @@
 ---
-title: "Abalone Age Prediction"
+title: Abalone Age Prediction
 layout: default
+permalink: /projects/abalone-age/
 ---
 
 ## Overview
