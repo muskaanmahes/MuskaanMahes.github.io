@@ -39,6 +39,21 @@ This app allows users to interactively explore abalone age by sex using boxplots
 ## Code
 👉 **[View GitHub Repository](MuskaanMahes.github.io)**
 
+---
+
+## Competition Submission
+
+The following file contains predicted abalone ages generated using the final interaction model:
+
+👉 **[Download Competition Predictions (CSV)](/Muskaan_Safi_competiton_int_pred.csv)**
+
+**Details:**
+- Model: Linear regression with interaction terms
+- Target: Abalone age
+- Evaluation metric: Mean Absolute Error (MAE)
+- Submission format: ID, predicted age
+
+
 Includes:
 - Data cleaning
 - Model training and evaluation
