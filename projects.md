@@ -23,7 +23,7 @@ The analysis compares multiple models (simple, multiple, and logged multiple reg
 
 ### Abalone Age Prediction
 Predicting abalone age using linear regression and interactive visualization.
-
+- [Abalone Age Prediction](projects/abalone-age.html)
 - [Project Page](http://safimuhammad.me/dds-abalone-project/)
 - [GitHub Repo](https://muskaanmahes.github.io/)
 - [Shiny App](http://muskaanmahes.shinyapps.io/abalone_shiny_clean)
