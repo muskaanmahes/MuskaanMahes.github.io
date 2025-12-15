@@ -37,11 +37,6 @@ This app allows users to interactively explore abalone age by sex using boxplots
 
 ---
 
-## Code
-👉 **[View GitHub Repository](MuskaanMahes.github.io)**
-
----
-
 ## Competition Submission
 
 The following file contains predicted abalone ages generated using the final interaction model:
