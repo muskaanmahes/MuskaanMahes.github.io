@@ -19,7 +19,7 @@ Two machine learning models were built to predict turnover risk. K-Nearest Neigh
 A regression modeling project that predicts home sale prices in Ames, Iowa using the Kaggle House Prices dataset.  
 The analysis compares multiple models (simple, multiple, and logged multiple regression) and evaluates performance using Adjusted R², PRESS, AIC, and Kaggle score.
 
-👉 [Predictive Modeling of Ames Housing Prices](./ames_housing.html)
+👉 [Predictive Modeling of Ames Housing Prices](/ames_housing.html)
 
 ### Abalone Age Prediction
 Predicting abalone age using linear regression and interactive visualization.
