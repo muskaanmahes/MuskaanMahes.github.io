@@ -50,8 +50,17 @@ Developed predictive models for osteoporotic fracture risk using 500 clinical re
 
 **Tools:** R, Logistic Regression, LDA, QDA, Random Forest, Cross-Validation, ROC Analysis
 
+- [View Presentation](/projects/Applied%20Applied%20Stats%20Project%2.pdf)
+- [View Full Analysis](/projects/DS6372_Project2.html)
+
 ## Secure Pharmacy Database
 
-Designed and implemented a normalized MySQL healthcare database with **10+ interconnected tables** for managing pharmaceutical data. Used Python and SQL for data generation, management, and analysis, and developed database functions, stored procedures, views, and triggers to automate workflows and enforce data integrity.
+Designed and implemented a normalized MySQL pharmacy database with 10+ interconnected tables supporting customers, employees, prescriptions, orders, drugs, and sales. Developed SQL scripts for schema creation, data loading, staging, views, stored procedures, functions, and triggers to automate database workflows and maintain data integrity.
 
-**Tools:** MySQL, SQL, Python, Database Design, Stored Procedures, Views, Triggers
+Built a Python-based synthetic data generation pipeline using Faker to create realistic customer, employee, prescription, order, and sales datasets for database testing and analytics. The generated data was used to support downstream reporting and dashboard visualization.
+
+**Tools:** MySQL, SQL, Python, Faker, Database Design, Stored Procedures, Views, Triggers, Data Generation
+
+- [View SQL & Python Implementation](https://github.com/muskaanmahes/MuskaanMahes.github.io/tree/main/projects/secure-pharmacy-database)
+
+
