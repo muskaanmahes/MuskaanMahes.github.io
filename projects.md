@@ -51,7 +51,7 @@ Developed predictive models for osteoporotic fracture risk using 500 clinical re
 **Tools:** R, Logistic Regression, LDA, QDA, Random Forest, Cross-Validation, ROC Analysis
 
 - [View Presentation](/projects/Applied%20Applied%20Stats%20Project%2.pdf)
-- [View Full Analysis](/projects/DS6372_Project2.html)
+- [View Full Analysis](/projects/DS-6372-Project-2_V2_8_9_2026.html)
 
 ## Secure Pharmacy Database
 
