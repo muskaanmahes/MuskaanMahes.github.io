@@ -62,5 +62,6 @@ Built a Python-based synthetic data generation pipeline using Faker to create re
 **Tools:** MySQL, SQL, Python, Faker, Database Design, Stored Procedures, Views, Triggers, Data Generation
 
 - [View SQL & Python Implementation](https://github.com/muskaanmahes/MuskaanMahes.github.io/tree/main/projects/secure-pharmacy-database)
-
+- [View Full Analysis](/projects/secure-pharmacy-database/Pharmacy_Presentation.pdf)
+  
 
